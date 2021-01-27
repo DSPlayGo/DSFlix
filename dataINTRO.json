@@ -1,8 +1,8 @@
 [
 {
-   "version" : "",
-   "titulo_update" : "",
-   "cambio_update" : "",
-   "urlredir_update" : ""
+   "version" : "1",
+   "titulo_update" : "Nueva Actualización",
+   "cambio_update" : "Bug Solucionados",
+   "urlredir_update" : "www.google.com"
 }
 ]
