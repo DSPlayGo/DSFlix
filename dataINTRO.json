@@ -4,6 +4,7 @@
    "titulo_update" : "",
    "cambio_update" : "",
    "urlredir_update" : "",
-   "host_Status" : "Nuevo"
+   "host_Status" : "Nuevo",
+   "login" : "TRUE"
 }
 ]
