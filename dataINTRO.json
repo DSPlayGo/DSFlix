@@ -2,7 +2,7 @@
 {
    "version" : 2,
    "titulo_update" : "<h4>Nueva Actualización</h4>",
-   "cambio_update" : "<p>✔️ Cambios de Interfaz</p><p>✔️ Corrección de Bugs</p>",
+   "cambio_update" : "<p>______________</p>✔️ Cambios de Interfaz<br/>✔️ Corrección de Bugs<br/>",
    "urlredir_update" : "http://play.google.com/store/apps/details?id=com.ds.playweb",
    "host_Status" : "Nuevo",
    "login" : "FALSE"
