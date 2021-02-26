@@ -1,9 +1,9 @@
 [
 {
-   "version" : 1,
-   "titulo_update" : "",
-   "cambio_update" : "",
-   "urlredir_update" : "",
+   "version" : 2,
+   "titulo_update" : "Nueva Actualización",
+   "cambio_update" : "Algunos Bugs corregidos\nCambios de Interfaz",
+   "urlredir_update" : "https://www.google.com.pe/",
    "host_Status" : "Nuevo",
    "login" : "FALSE"
 }
