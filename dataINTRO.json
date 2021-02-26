@@ -1,9 +1,9 @@
 [
 {
    "version" : 2,
-   "titulo_update" : "Nueva Actualización",
-   "cambio_update" : "Algunos Bugs corregidos\nCambios de Interfaz",
-   "urlredir_update" : "https://www.google.com.pe/",
+   "titulo_update" : "<h4>Nueva Actualización</h4>",
+   "cambio_update" : "<p>✔️ Cambios de Interfaz</p><p>✔️ Corrección de Bugs</p>",
+   "urlredir_update" : "http://play.google.com/store/apps/details?id=com.ds.playweb",
    "host_Status" : "Nuevo",
    "login" : "FALSE"
 }
