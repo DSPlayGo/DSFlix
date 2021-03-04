@@ -19,3 +19,5 @@ amung.us
 pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
 googlesyndication.com
 familyborn.com
+doubleclick.net
+viglink.com
