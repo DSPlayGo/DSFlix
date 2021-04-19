@@ -6,6 +6,7 @@
    "urlredir_update" : "http://play.google.com/store/apps/details?id=com.ds.playweb",
    "host_Status" : "Nuevo",
    "login" : "TRUE",
+   "login2" : "TRUE",
    "ADS_ITEM" : "3",
    "ADS_LINK" : "1",
    "consejo" : true,
