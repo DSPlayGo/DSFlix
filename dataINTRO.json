@@ -19,8 +19,8 @@
    "iTmode" : true,
    "iTversionGET" : 2,
    "titulo_update_getT" : "<h4 style=\"color:#3380FF\">Nueva Actualización Testing</h4>",
-   "cambio_updateT" : "<p style=\"color:#ffa100\">𝐁𝐞𝐭𝐚 𝐯.𝟎𝟑 𝐋𝐮𝐩𝐢𝐧𝐲 【𝟓】🧐</p>______________<br/>✅ Solución a Código Sesión.<br/>✅  Se agrego 3 paquetes nuevos.<br/>✅ Corrección y aumento de ServiExt.<br/>",
-   "urlredir_updateT" : "http://play.google.com/store/apps/details?id=com.ds.playweb" 
+   "cambio_update_getT" : "<p style=\"color:#ffa100\">𝐁𝐞𝐭𝐚 𝐯.𝟎𝟑 𝐋𝐮𝐩𝐢𝐧𝐲 【𝟓】🧐</p>______________<br/>✅ Solución a Código Sesión.<br/>✅  Se agrego 3 paquetes nuevos.<br/>✅ Corrección y aumento de ServiExt.<br/>",
+   "urlredir_update_getT" : "http://play.google.com/store/apps/details?id=com.ds.playweb" 
      
 }
 ]
