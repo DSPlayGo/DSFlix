@@ -15,11 +15,11 @@
    "urlredir_consejo" : "http://play.google.com/store/apps/details?id=com.ds.playweb",
    "BAType" : "N",
    "REType" : "N",
-   "NAType" : "FALSE",
+   "NAType" : "A",
    "iTmode" : true,
-   "iTversionGET" : 3,
+   "iTversionGET" : 2,
    "titulo_update_getT" : "<h4 style=\"color:#3380FF\">Nueva Actualización Testing</h4>",
-   "cambio_update_getT" : "<p style=\"color:#ffa100\">𝐁𝐞𝐭𝐚 𝐯.𝟎𝟑 𝐋𝐮𝐩𝐢𝐧𝐲 【𝟓】🧐</p>______________<br/>✅ Solución a Código Sesión.<br/>✅  Se agrego 3 paquetes nuevos.<br/>✅ Corrección y aumento de ServiExt.<br/>",
+   "cambio_update_getT" : "<p style=\"color:#ffa100\">Beta Testing 2</p>______________<br/>✅ Corrección a Carga de Anuncios. <br/>✅ Pequeñas Optimizaciones.<br/>",
    "urlredir_update_getT" : "http://play.google.com/store/apps/details?id=com.ds.playweb" 
      
 }
