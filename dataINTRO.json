@@ -13,7 +13,7 @@
    "titulo_consejo" : "<h4 style=\"color:#292929\">Nuevo Consejo</h4>",
    "contex_consejo" : "<p style=\"color:#ffa100\">______________</p>✅ Consejo 1<br/>✅ Consejo 2<br/>",
    "urlredir_consejo" : "http://play.google.com/store/apps/details?id=com.ds.playweb",
-   "BAType" : "C",
+   "BAType" : "N",
    "REType" : "C",
    "NAType" : "FALSE",
    "iTmode" : true,
